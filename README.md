@@ -1,7 +1,7 @@
 # Attract-Repel
 Nikola Mrkšić, University of Cambridge (nikola.mrksic@gmail.com)
 
-This repository contains the code and data for the Attract-Repel method presented in [Semantic Specialisation of Distributional Word Vector Spaces using Monolingual and Cross-Lingual Constraints](http://mi.eng.cam.ac.uk/~nm480/tacl2017.pdf) (Mrkšić et al., TACL 2017).
+This repository contains the code and data for the Attract-Repel method presented in [Semantic Specialisation of Distributional Word Vector Spaces using Monolingual and Cross-Lingual Constraints](https://arxiv.org/abs/1706.00374) (Mrkšić et al., TACL 2017).
 
 
 ### Available Word Vector Spaces
@@ -14,7 +14,7 @@ Hebrew and Croatian SimLex-999 datasets are available [here](https://drive.googl
 
 The Italian and German Wizard-of-Oz (WOZ) dialogue state tracking datasets are available [here](https://drive.google.com/open?id=0B_pyA_IW4g-jd3BRM2JlVHF5UVE). 
 
-The large morphologically specialised vectors (SGNS-LARGE) for English, Italian and German, presented in [Morph-fitting: Fine-Tuning Word Vector Spaces with Simple Language-Specific Rules](https://mi.eng.cam.ac.uk/~nm480/morph.txt), (Vulić et al., ACL 2017) are available [here](https://drive.google.com/open?id=0B_pyA_IW4g-jSW5ITXFqNFJ6LTQ). 
+The large morphologically specialised vectors (SGNS-LARGE) for English, Italian and German, presented in [Morph-fitting: Fine-Tuning Word Vector Spaces with Simple Language-Specific Rules](https://mi.eng.cam.ac.uk/~nm480/morph.txt), (Vulić et al., ACL 2017) are available [here](https://arxiv.org/abs/1706.00377). 
  
 
 ### Configuring the Tool

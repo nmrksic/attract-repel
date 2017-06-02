@@ -279,7 +279,7 @@ class ExperimentRun:
 
         for i in range(len(square_distance_list)):
 
-            square_distance_list[i,i]=default_value # NIKOLA TODO: is this wrong, does this mean that we always find the element itself as most distant?
+            square_distance_list[i,i]=default_value 
             
             if i % 2 == 0:
                 square_distance_list[i,i+1] = default_value 
