@@ -48,8 +48,7 @@ The TACL paper which introduces the Attract-Repel procedure, the cross-lingual v
   journal   = {Transactions of the Association for Computational Linguistics},
   volume    = {5}
   year      = {2017},
-  pages     = {309--324},
-  
+  pages     = {309--324},  
  }
 ```
 
@@ -59,7 +58,7 @@ The ACL paper which uses the Attract-Repel procedure and simple language-specifi
   author    = {Vuli\'{c}, Ivan and Mrk\v{s}i\'{c}, Nikola and Reichart, Roi and {\'O S\'eaghdha}, Diarmuid and Young, Steve and Korhonen, Anna},
   title     = {Morph-fitting: {F}ine-Tuning Word Vector Spaces with Simple Language-Specific Rules},
   booktitle = {Proceedings of ACL},
-  year      = {2017}
+  year      = {2017},
   pages     = {56--68},
   }
 ``` 
