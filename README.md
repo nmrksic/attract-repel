@@ -46,7 +46,10 @@ The TACL paper which introduces the Attract-Repel procedure, the cross-lingual v
   author    = {Nikola Mrk\v{s}i\'c and Ivan Vuli\'{c} and Diarmuid {\'O S\'eaghdha} and Ira Leviant and Roi Reichart and Milica Ga\v{s}i\'c and Anna Korhonen and Steve Young},
   title     = {Semantic Specialisation of Distributional Word Vector Spaces using Monolingual and Cross-Lingual Constraints},
   journal   = {Transactions of the Association for Computational Linguistics},
-  year      = 2017
+  volume    = {5}
+  year      = {2017},
+  pages     = {309--324},
+  
  }
 ```
 
@@ -57,6 +60,7 @@ The ACL paper which uses the Attract-Repel procedure and simple language-specifi
   title     = {Morph-fitting: {F}ine-Tuning Word Vector Spaces with Simple Language-Specific Rules},
   booktitle = {Proceedings of ACL},
   year      = {2017}
+  pages     = {56--68},
   }
 ``` 
 
